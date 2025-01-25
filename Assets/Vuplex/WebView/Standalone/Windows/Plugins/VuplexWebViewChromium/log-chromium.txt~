@@ -1,0 +1,16 @@
+[1216/120402.713:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E1DE324514D515B84193FEBF1EE37ABD will be ignored
+[1216/120402.783:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1216/121738.676:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3D46BF83B4A0375AEE1C8F1BE3A3F4EB will be ignored
+[1216/121738.723:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1216/124517.295:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1216/130730.216:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1216/130817.700:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1216/130817.828:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1216/131647.141:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-776B1EAC2E5DFA5FF74AAC70ED114394 will be ignored
+[1216/131647.242:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1216/131800.486:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E962B1C219F5EC6445DF002FB8A7745B will be ignored
+[1216/131800.554:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1216/133119.908:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4C8873C16EDF90D166EE067003CACEB5 will be ignored
+[1216/133119.953:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0124/191152.864:WARNING:frame_impl.cc(431)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C9DBFCE6C3D42AEC520410CEECD5CDC5 will be ignored
+[0124/191152.910:WARNING:task_impl.cc(32)] No task runner for threadId 0
